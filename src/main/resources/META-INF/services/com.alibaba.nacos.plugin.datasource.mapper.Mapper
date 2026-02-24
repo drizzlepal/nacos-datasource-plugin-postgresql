@@ -1,0 +1,10 @@
+com.drizzlepal.nacos.plugin.datasource.impl.postgresql.ConfigInfoMapperByPostgresql
+com.drizzlepal.nacos.plugin.datasource.impl.postgresql.ConfigInfoBetaMapperByPostgresql
+com.drizzlepal.nacos.plugin.datasource.impl.postgresql.ConfigInfoTagMapperByPostgresql
+com.drizzlepal.nacos.plugin.datasource.impl.postgresql.ConfigTagsRelationMapperByPostgresql
+com.drizzlepal.nacos.plugin.datasource.impl.postgresql.HistoryConfigInfoMapperByPostgresql
+com.drizzlepal.nacos.plugin.datasource.impl.postgresql.ConfigMigrateMapperByPostgresql
+com.drizzlepal.nacos.plugin.datasource.impl.postgresql.ConfigInfoGrayMapperByPostgresql
+com.drizzlepal.nacos.plugin.datasource.impl.postgresql.GroupCapacityMapperByPostgresql
+com.drizzlepal.nacos.plugin.datasource.impl.postgresql.TenantInfoMapperByPostgresql
+com.drizzlepal.nacos.plugin.datasource.impl.postgresql.TenantCapacityMapperByPostgresql

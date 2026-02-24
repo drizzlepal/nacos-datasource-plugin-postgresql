@@ -1,0 +1,9 @@
+.flattened-pom.xml
+.settings
+.vscode
+target
+out
+.classpath
+.project
+.factorypath
+.checkstyle
